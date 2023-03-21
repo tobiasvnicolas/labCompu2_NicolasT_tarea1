@@ -12,7 +12,5 @@ Prueba README.MD
 |--------|----------|--------------------|--------|
 | Tobias |  Nicolas | 2215878@ucc.edu.ar | 351... |
 
-:rocket:
-
 ### Aula Virtual
-[Aula Virtual]: (https://presencial.ucc.edu.ar/course/view.php?id=9253)
+[Aula Virtual]: (https://presencial.ucc.edu.ar/course/view.php?id=9253) :rocket:
