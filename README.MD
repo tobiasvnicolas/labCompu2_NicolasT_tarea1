@@ -1,7 +1,7 @@
 
-## PruebaLabCompu2
+# PruebaLabCompu2
 
-# Autores
+## Autores
 - **Nicolas**, Tobias
 
 ## Descripcion
