@@ -2,7 +2,7 @@
 # PruebaLabCompu2
 
 ## Autores
-- **Nicolas**, Tobias
+- **NICOLAS**, Tobias
 
 ## Descripcion
 Prueba README.MD
