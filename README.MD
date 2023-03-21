@@ -1,8 +1,8 @@
 
+## PruebaLabCompu2
+
 # Autores
 - **Nicolas**, Tobias
-
-## PruebaLabCompu2
 
 ## Descripcion
 Prueba README.MD
